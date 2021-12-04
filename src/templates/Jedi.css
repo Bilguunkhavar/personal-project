@@ -1,0 +1,35 @@
+.title {
+    color: #003366;
+    margin-top: 10px;
+}
+
+.header a:link {
+    text-decoration: none;
+    color: #000;
+}
+
+hr {
+    border-top: 5px solid #003366;
+}
+
+h1 {
+    color: #003366;
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.subsubtitle {
+    font-size: 18px;
+}
+
+.col-7 {
+    padding-left: 30px;
+}
